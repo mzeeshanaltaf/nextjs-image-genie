@@ -1,5 +1,5 @@
 ## AI Image Genie
-Image generation and editing app developed in Next JS
+Image generation and editing app developed in Next JS. For details of app functionalty, read the PRD document in \PRD folder.
 
 ## Technologies Used:
 
@@ -19,3 +19,4 @@ Image generation and editing app developed in Next JS
 ## Screenshots
 ![Image Genie](screenshots/Image_Genie_1.jpg)
 ![Image Genie](screenshots/Image_Genie_2.jpg)
+
