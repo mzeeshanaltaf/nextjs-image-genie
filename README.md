@@ -17,3 +17,5 @@ Image generation and editing app developed in Next JS
   - n8n 1.106.3 -- Workflow to generate and edit images using Googles Image Generation model (Nano Banana)
 
 ## Screenshots
+![Image Genie](screenshots/Image_Genie_1.jpg)
+![Image Genie](screenshots/Image_Genie_2.jpg)
